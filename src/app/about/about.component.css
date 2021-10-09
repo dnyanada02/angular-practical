@@ -1,0 +1,25 @@
+.head{
+	background-image: url("../../images/about.png");
+	height: 95vh;
+	background-size: cover;
+	background-position: center;
+}
+
+.content{
+	color: white;
+	font-size: large;
+	line-height: 1.5;
+}
+
+.content h1{
+	position: absolute;
+	top: 30%;
+	left: 15%;
+	
+}
+
+.content p{
+	position: absolute;
+	top: 40%;
+	left: 15%;
+}

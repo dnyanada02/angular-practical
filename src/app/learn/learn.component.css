@@ -1,0 +1,134 @@
+/*.html h1{
+    color: black;
+	position: absolute;
+	top: 15%;
+	left: 25%;
+	font-size: 25px;
+	transform: translate(-50%,-50%);
+}
+
+.html p{
+	color: black;
+	position: absolute;
+	top: 20%;
+	left: 7%;
+	font-size: 15px;
+	line-height: 1.8;
+}
+
+.css h1{
+	color: black;
+	position: absolute;
+	top: 40%;
+	left: 75%;
+	font-size: 25px;
+	transform: translate(-50%,-50%);
+}
+
+.css p{
+	color: black;
+	position: absolute;
+	top: 45%;
+	left: 7%;
+	font-size: 15px;
+	line-height: 1.8;
+}
+
+.js h1{
+	color: black;
+	position: absolute;
+	top: 70%;
+	left: 16.5%;
+	font-size: 25px;
+	transform: translate(-50%,-50%);
+}
+
+.js p{
+	color: black;
+	position: absolute;
+	top: 75%;
+	left: 7%;
+	font-size: 15px;
+	line-height: 1.8;
+}
+
+.node-js h1{
+	color: black;
+	position: absolute;
+	top: 100%;
+	left: 80%;
+	font-size: 25px;
+	transform: translate(-50%,-50%);
+}
+
+.node-js p{
+	color: black;
+	position: absolute;
+	top: 105%;
+	left: 7%;
+	font-size: 15px;
+	line-height: 1.8;
+}
+
+.angular h1{
+	color: black;
+	position: absolute;
+	top: 130%;
+	left: 16.5%;
+	font-size: 25px;
+	transform: translate(-50%,-50%);
+}
+
+.angular p{
+	color: black;
+	position: absolute;
+	top: 135%;
+	left: 7%;
+	font-size: 15px;
+	line-height: 1.8;
+}
+
+.react h1{
+	color: black;
+	position: absolute;
+	top: 160%;
+	left: 80%;
+	font-size: 25px;
+	transform: translate(-50%,-50%);
+}
+
+.react p{
+	color: black;
+	position: absolute;
+	top: 165%;
+	left: 7%;
+	font-size: 15px;
+	line-height: 1.8;
+}*/
+
+
+
+
+
+.head-about{
+	background-image: url("../../images/learn.png");
+	height: 95vh;
+	background-size: cover;
+	background-position: center;
+}
+.col-sm-6{
+	padding-top: 10px;
+}
+h1{
+	font-size: 25px;
+	color: white;
+}
+p{
+	font-size: 16px;
+	color: white;
+}
+  @media (min-width: 768px) {
+	.col-sm-6 {
+	  height: 33.33vh;
+	}
+  }
